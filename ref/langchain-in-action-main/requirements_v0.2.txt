@@ -39,7 +39,7 @@ langchain==0.2.2
 langchain-cli==0.0.24
 langchain-community==0.2.3
 langchain-core==0.2.4
-langchain-experimental==0.0.60
+langchain-experimental==0.0.61
 langchain-openai==0.1.8
 langchain-text-splitters==0.2.1
 langserve==0.2.1
